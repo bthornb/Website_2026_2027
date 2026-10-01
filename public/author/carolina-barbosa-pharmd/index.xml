@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carolina Barbosa, PharmD | Ben Thornburg</title>
+    <link>/author/carolina-barbosa-pharmd/</link>
+      <atom:link href="/author/carolina-barbosa-pharmd/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carolina Barbosa, PharmD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Carolina Barbosa, PharmD</title>
+      <link>/author/carolina-barbosa-pharmd/</link>
+    </image>
+    
+    <item>
+      <title>Estimating Joint Health State Utility Algorithms Under Partial Information</title>
+      <link>/publication/published-paper-5/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/published-paper-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health-Related Quality of Life of Alcohol Use Disorder with Co-Occuring Conditions in the US Population</title>
+      <link>/publication/published-paper-7/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/published-paper-7/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
