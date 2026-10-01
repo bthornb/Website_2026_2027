@@ -38,13 +38,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#mailto:thornburgb@ohsu.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:thornburgb@ohsu.edu"  
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=Fnd-p5IAAAAJ&view_op=list_works&gmla=AERr9JH4BtsnCFNU2Dg_ThoR6L_jEKOJM0IP42pqmosRTgLB0F6A5CZ21iQtpTyvoXjrEzA4q_t9tDmHFjBFBF1y
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/bendthornburg
+  link: https://www.linkedin.com/in/bendthornburg/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
