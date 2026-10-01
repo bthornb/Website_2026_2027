@@ -57,9 +57,7 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+user_groups: ""
 ---
 
 Ben uses quasi-experimental methods to study market structure, provider labor, and policy in behavioral and maternal healthcare. 
