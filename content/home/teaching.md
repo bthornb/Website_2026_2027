@@ -16,7 +16,7 @@ weight = 120
 
 +++
 
-### Internal Medicine Resident Seminar, OHSU
+### Health Systems for Internal Medicine Residents, OHSU
 Lecturer: 2025, 2026
 
 ### PH.318.603: Applied Microeconomics for Policymakers, JHU
