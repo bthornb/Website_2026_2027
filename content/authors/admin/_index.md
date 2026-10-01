@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ben uses quasi-experimental methods, claims data, surveys, and other administrative information to study market structure, provider labor, and policy in behavioral and maternal healthcare.
+bio: I am a health economist and fellow of the Center for Health Systems Effectiveness at Oregon Health & Science University. I use quasi-experimental methods, claims data, surveys, and other administrative information to study market structure, provider labor, and policy in behavioral and maternal healthcare.
 
 education:
   courses:
@@ -60,10 +60,10 @@ email: ""
 user_groups: ""
 ---
 
-Ben uses quasi-experimental methods to study market structure, provider labor, and policy in behavioral and maternal healthcare. 
+I am a health economist and fellow of the Center for Health Systems Effectiveness at Oregon Health & Science University. I use quasi-experimental methods, claims data, surveys, and other administrative information to study market structure, provider labor, and policy in behavioral and maternal healthcare. Currently, I am focused on advancing two streams of research: (1) Behavioral healthcare corporatization and consolidation, and (2) the effects of policies enabled by the *Dobbs* supreme court decision. My work has been published in leading journals such as *JAMA*, *Health Affairs*, and *JAMA Health Forum*.
 
-Currently, Ben is advancing two streams of research:\
-(1) Behavioral healthcare corporatization and consolidation\
-(2) The effects of policies enabled by the *Dobbs* supreme court decision.
+**I am on the 2026-2027 job market.**
 
-**Ben is on the 2026-2027 job market**
+
+
+
