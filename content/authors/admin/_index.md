@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow in Health Economics
+role: Postdoctoral Fellow in Health Economics 
 
 # Organizations/Affiliations
 organizations:
